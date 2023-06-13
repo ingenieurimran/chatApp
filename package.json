@@ -1,0 +1,11 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "cd backend && npm start",
+      "frontend-install": "cd frontend && npm install",
+      "frontend-build": "cd frontend && npm run build",
+      "backend-install": "cd backend && npm install"
+    }
+  }
+  
